@@ -1,4 +1,4 @@
-# BR Infatuation Inferno — Brazilian Portuguese Localization
+# Infatuation Inferno — Brazilian Portuguese Localization
 
 ![Status](https://img.shields.io/badge/Status-Complete-success)
 ![Language](https://img.shields.io/badge/Language-PT--BR-green)
