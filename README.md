@@ -1,4 +1,4 @@
-# 🇧🇷 Infatuation Inferno — Brazilian Portuguese Localization
+# BR Infatuation Inferno — Brazilian Portuguese Localization
 
 ![Status](https://img.shields.io/badge/Status-Complete-success)
 ![Language](https://img.shields.io/badge/Language-PT--BR-green)
@@ -67,6 +67,10 @@ Brazilian Portuguese localization by **Seralyth**.
 ### Dialogue
 
 ![Dialogue](screenshots/dialogue-1.png)
+
+### Dialogue
+
+![Dialogue](screenshots/dialogue-2.png)
 
 ### Choice Screen
 
