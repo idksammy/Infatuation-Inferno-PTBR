@@ -1,0 +1,14 @@
+==================================
+📥 INSTALAÇÃO
+==================================
+
+1. Baixe a versão mais recente
+2. Abra a pasta do jogo **Infatuation Inferno**.
+3. Copie a pasta `game` deste repositório para o diretório do jogo.
+4. Quando solicitado, permita que os arquivos sejam mesclados ou substituídos.
+5. Inicie o jogo. A tradução deverá estar disponível.
+
+Bom jogo! ❤️
+
+> **Nota:** Esta tradução foi feita para a versão 1.1 do jogo.
+Caso o jogo seja atualizado, algumas partes podem voltar para o inglês até que a tradução seja atualizada.
